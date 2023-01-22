@@ -195,7 +195,7 @@ The uses of Washerman's Lake in vellore District are
 ![Output](./screenshots/out6.png)
 
 ## HTML Validator
-![HTML Validator](./screenshot/valid.png)
+![HTML Validator](./screenshots/valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully
