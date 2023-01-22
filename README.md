@@ -32,7 +32,7 @@ map.html
 <font color="blue"><b>Maithreyan (22000998)</b></font>
 </h3>
 <center>
-<img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
+<img src="/static/images/out1.png" usemap="#MyCity" height="420" width="1100">
 <map name="MyCity">
 <area shape="circle" coords="190,50,20" href="/static/html/ghs.html" title="VEllORE">
 <area shape="rectangle" coords="230,30,260,60" href="/static/html/rto.html" title="RTO Office">
