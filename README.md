@@ -17,7 +17,7 @@ Write the needed HTML code.
 Run the Django server and execute the HTML files.
 
 ## Code:
-'''
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -179,7 +179,7 @@ The uses of Washerman's Lake in vellore District are
 </p>
 </body>
 </html>
-'''
+```
 
 ## Output:
 ![Output](./screenshots/out1.png)
